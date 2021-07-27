@@ -1,2 +1,2 @@
 # api-stickers
-API-STICKERS 
+api-stickers - API для получения Стикеров, приложений, групп пользователя и прочего.
